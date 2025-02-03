@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently doing **BTech in AI and ML**
 
-- 🌱 I’m currently learning **Java,python,html**
+- 🌱 I’m currently learning **Dart,Flutter,python**
 
 - 📫 How to reach me **sreehari14shr@gmail.com**
 
