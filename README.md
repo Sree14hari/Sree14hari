@@ -1,4 +1,5 @@
-# 💫 About Me:
+[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7VLakGxXY3xoBe7Tn4yhk2mhhvZrfWLCV3HpZOvJcdVrXaYUR3pRrpFXb8IEEM_IxCTmQCSCAK2I_QedxEAxR8Y0mV418qCg-CRMctCB93CtJlU9ZpvNLvVEwXKYV0VN7ZOcubBVJeSw/s1600/2000_600px.gif)](https://shr-sreehari.web.app/)
+<h1 align="center">Hi 👋, I'm Rishav Chanda</h1>
 🔭 I’m currently doing BTech in AI and ML<br><br>🌱 I’m currently learning Dart ,Flutter ,python<br><br>📫 How to reach me sreehari14shr@gmail.com
 
 
