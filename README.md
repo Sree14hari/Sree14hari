@@ -14,7 +14,7 @@
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> **About Me**
+##  **About Me**
 
 ```python
 class SreehariR:
@@ -39,7 +39,7 @@ me = SreehariR()
 me.say_hi()
 ```
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
+<img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
 
 ### 🎯 **Current Objectives**
 - 🔭 **Exploring:** Deep Learning & Explainable AI frameworks
@@ -135,33 +135,6 @@ Cloud          ██████████████░░░░░░   Fi
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sree14hari&bg_color=0d1117&color=4CAF50&line=4CAF50&point=FFFFFF&hide_border=true" />
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> **GitHub Trophies**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sree14hari&theme=nord&no-frame=true&no-bg=true&margin-w=4&column=4" />
-</div>
-
----
-
-## 🎨 **Featured Projects**
-
-<div align="center">
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Sree14hari&repo=YOUR_REPO_NAME&theme=dark&hide_border=true&title_color=4CAF50&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Sree14hari/YOUR_REPO_NAME)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Sree14hari&repo=YOUR_REPO_NAME2&theme=dark&hide_border=true&title_color=4CAF50&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Sree14hari/YOUR_REPO_NAME2)
-
-</div>
-
----
-
-## 📈 **Contribution Graph**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Sree14hari&theme=dark&hide_border=true&title_color=4CAF50&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 ---
