@@ -1,7 +1,7 @@
 [![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7VLakGxXY3xoBe7Tn4yhk2mhhvZrfWLCV3HpZOvJcdVrXaYUR3pRrpFXb8IEEM_IxCTmQCSCAK2I_QedxEAxR8Y0mV418qCg-CRMctCB93CtJlU9ZpvNLvVEwXKYV0VN7ZOcubBVJeSw/s1600/2000_600px.gif)](https://shr-sreehari.web.app/)
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=4CAF50&background=00000000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sreehari+R;AI+%26+ML+Enthusiast;Flutter+Developer;Python+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=4CAF50&background=00000000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sreehari+R" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -39,7 +39,7 @@ me = SreehariR()
 me.say_hi()
 ```
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
 
 ### 🎯 **Current Objectives**
 - 🔭 **Exploring:** Deep Learning & Explainable AI frameworks
@@ -74,7 +74,7 @@ me.say_hi()
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **Tech Stack**
+## **Tech Stack**
 
 <details>
 <summary><b>🖥️ Programming Languages</b></summary>
