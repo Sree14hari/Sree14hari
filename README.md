@@ -4,41 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=4CAF50&background=00000000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sreehari+R" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+BTech+Student+%7C+AI+%26+ML+Enthusiast;%F0%9F%92%BB+Flutter+%26+Python+Developer;%F0%9F%8C%B1+Building+AI-driven+Solutions" alt="Subtitle Typing SVG" />
-</p>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
----
-
-##  **About Me**
-
-```python
-class SreehariR:
-    def __init__(self):
-        self.username = "Sree14hari"
-        self.name = "Sreehari R"
-        self.position = "BTech Student | AI & ML Enthusiast"
-        self.web = "https://shr-sreehari.web.app/"
-        self.code = {
-            "frontend": ["Flutter", "Dart"],
-            "backend": ["Python", "Firebase"],
-            "ai_ml": ["Deep Learning", "Explainable AI"],
-            "tools": ["Adobe Creative Suite", "Figma"],
-            "architecture": ["Cross-platform Apps", "AI Solutions"]
-        }
-        self.current_focus = "Building scalable AI-driven applications"
-        
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together 🚀")
-
-me = SreehariR()
-me.say_hi()
-```
-
 <img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
 
 ### 🎯 **Current Objectives**
@@ -147,28 +112,9 @@ Cloud          ██████████████░░░░░░   Fi
 
 ---
 
-## <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> **A Little More About Me...**
-
-```javascript
-const sreehari = {
-    pronouns: "He/Him",
-    code: ["Python", "Dart", "C"],
-    askMeAbout: ["AI/ML", "Flutter", "Tech", "Photography", "Design"],
-    technologies: {
-        mobileApp: ["Flutter"],
-        backEnd: {
-            python: ["Firebase", "FastAPI"]
-        },
-        ai: ["TensorFlow", "PyTorch", "Scikit-learn"],
-        devOps: ["Docker", "GitHub Actions"],
-        databases: ["Firebase", "MongoDB"],
-        misc: ["Firebase", "Socket.IO", "Open-CV"]
-    },
-    architecture: ["Progressive web applications", "Single page applications"],
-    currentFocus: "Building AI-powered mobile applications",
-    funFact: "There are two ways to write error-free programs; only the third one works"
-};
-```
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 
 ---
 
