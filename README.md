@@ -1,9 +1,9 @@
 <p align="center">
   <a href="https://sree14hari.vercel.app/">
-    <img src="<img width="1536" height="730" alt="@Sree14hari," src="https://github.com/user-attachments/assets/2c771bf1-89f8-4b6e-8033-8dc5ba8fa2d6" />
-" alt="Portfolio Preview" width="100%" />
+    <img src="./@Sree14hari,.png" alt="Portfolio Preview" width="100%" />
   </a>
 </p>
+
 
 
 ## **Tech Stack**
