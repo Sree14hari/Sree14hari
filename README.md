@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://sree14hari.vercel.app/">
-    <img src="./@Sree14hari,.png" alt="Portfolio Preview" width="100%" />
+    <img src="Pink and White Japanese Scene Twitch Banner.png" alt="Portfolio Preview" width="100%" />
   </a>
 </p>
 
