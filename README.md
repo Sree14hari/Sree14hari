@@ -17,7 +17,7 @@
 - 🎓 B.Tech in **Artificial Intelligence & Machine Learning**, Sree Buddha College of Engineering, Pattoor (2023–2027)
 - 🔬 Researching **Vision Transformers, Explainable AI (XAI), and multimodal fusion architectures**
 - 🏆 **Best Paper Award — ICITIIT'26, IIIT Kottayam** (ADA-XAI: Adaptive Faithfulness-Driven Explainability for Brain Tumor Diagnosis)
-- 🚀 Founder of **R3CTR**, creator of **[KTU Hub](https://ktuhub.site/)** and **[PaperLab](https://paperlab.r3actr.work/)**
+- 🚀 Co - Founder of **R3CTR**, creator of **[KTU Hub](https://ktuhub.site/)** and **[PaperLab](https://paperlab.r3actr.work/)**
 - 💬 Ask me about Interpretability for ViTs, hybrid frameworks, or multimodal fusion pipelines
 
 ---
