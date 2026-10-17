@@ -19,7 +19,7 @@
 
 I am an AI researcher and undergraduate student in **Artificial Intelligence & Machine Learning** (2023–2027) at Sree Buddha College of Engineering. My research centers on **reverse-engineering deep learning representations**, developing **mathematically grounded and faithful explainability metrics**, and building **trustworthy vision-language and multimodal architectures** for high-stakes domains such as medical diagnostics.
 
-Alongside academic research, I co-founded **R3CTR** and build high-impact platforms including **[PaperLab](https://paperlab.r3actr.work/)** (scholarly discovery and analysis) and **[KTU Hub](https://ktuhub.site/)**.
+Alongside academic research, I co-founded **R3CTR** and build high-impact platforms including **[PaperLab](https://paperlab.r3actr.com/)** (scholarly discovery and analysis) and **[KTU Hub](https://ktuhub.site/)**.
 
 > *"Building systems that are not only performant, but mathematically interpretable, certifiably faithful, and robust under distribution shifts."*
 
