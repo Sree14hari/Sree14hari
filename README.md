@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.png" alt="Sreehari R Banner" width="100%">
+<img src="./banner1.png" alt="Sreehari R Banner" width="100%">
 
 ### AI Researcher · Systems Builder
 **Mechanistic Interpretability · Explainable AI (XAI) · Trustworthy Deep Learning**
