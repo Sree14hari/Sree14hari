@@ -202,7 +202,7 @@ I am actively open to:
 
 <div align="center">
 
-📫 Feel free to reach out via **[LinkedIn](https://www.linkedin.com/in/sree14hari/)** or email me directly at **[sreehari@r3actr.work](mailto:sreehari@r3actr.work)**.
+📫 Feel free to reach out via **[LinkedIn](https://www.linkedin.com/in/sree14hari/)** or email me directly at **[sreehari14shr@gmail.com](mailto:sreehari14shr@gmail.com)**.
 
 <sub>Curated with precision · © 2026 Sreehari R</sub>
 
