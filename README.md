@@ -105,16 +105,6 @@ Alongside academic research, I co-founded **R3CTR** and build high-impact platfo
 
 ---
 
-## 📊 Activity & Telemetry
-
-<div align="center">
-
-<img width="100%" src="https://streak-stats.demolab.com/?user=Sree14hari&theme=dark&hide_border=true&background=0D1117&stroke=4CAF50&ring=4CAF50&fire=4CAF50&currStreakLabel=4CAF50&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" />
-
-</div>
-
----
-
 ## 🤝 Academic Inquiries & Collaborations
 
 I am actively open to:
