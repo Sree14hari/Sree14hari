@@ -57,87 +57,11 @@ Alongside academic research, I co-founded **R3CTR** and build high-impact platfo
 
 ## 📄 Selected Publications & Manuscripts
 
-<table>
-<thead>
-<tr>
-<th align="left">Publication / Manuscript</th>
-<th align="center" width="20%">Status & Venue</th>
-<th align="center" width="18%">Artifacts & Citation</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>
-
-**Boosted Vision Transformer Ensembles for Automatic Detection of Laryngeal and Neurological Voice Disorders**  
-***R. Sreehari***, *R. Abhinav, V. S. Kalidas, N. Sukumaran, R. Rajan, M. S. Chinchu*  
-Investigates enhanced vision transformer ensembles (DinoV3, EVA-02, MaxViT) with Boosted Weighted Voting and Temperature Scaling calibration on acoustic mel-spectrogram representations, reaching 86.84% accuracy across six vocal pathologies.  
-`Keywords`: *Vision Transformers (DinoV3, EVA-02, MaxViT) · Voice Pathology · Boosted Ensembles · Temperature Scaling · Acoustic Diagnostics*
-
-</td>
-<td align="center">
-
-🌟 **Published Article**  
-*Neural Computing and Applications*  
-**(Springer)** · Vol. 38, 707 (2026)
-
-</td>
-<td align="center">
-
-[![DOI](https://img.shields.io/badge/DOI-10.1007%2Fs00521--026--12393--5-00758f?style=flat-square&logo=doi)](https://doi.org/10.1007/s00521-026-12393-5)  
-[![Springer](https://img.shields.io/badge/Publisher-Springer_Nature-002f6c?style=flat-square)](https://link.springer.com/article/10.1007/s00521-026-12393-5)  
-[![Cite](https://img.shields.io/badge/Download-Citation-2ea44f?style=flat-square)](https://citation-needed.springer.com/v2/references/10.1007/s00521-026-12393-5?format=refman&flavour=citation)
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-**ADA-XAI: Adaptive Faithfulness-Driven Explainability for Brain Tumor Diagnosis**  
-***Sreehari R.***, *et al.*  
-Proposed an adaptive, faithfulness-driven explainability framework integrating hybrid EVA-02 representations with deformable convolutional backbones for robust MRI tumor localization.  
-`Keywords`: *Explainable AI (XAI) · Vision Transformers · Deformable CNNs · Faithfulness Metrics · Brain Tumor MRI*
-
-</td>
-<td align="center">
-
-🏆 **Best Paper Award**  
-*ICITIIT '26*  
-IIIT Kottayam
-
-</td>
-<td align="center">
-
-[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/Sree14hari/ADA-XAI-MRI)  
-[![Paper](https://img.shields.io/badge/Paper-Published-2ea44f?style=flat-square)](https://doi.org/10.1109/ICITIIT68860.2026.11499683)
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-**CRDA: Cross-Reasoning Disagreement Analysis for Uncertainty Quantification in Hybrid Voice Classification**  
-***Sreehari R.***, *et al.*  
-Introduces disagreement analysis across dual reasoning branches to model epistemic confidence and calibrate predictive reliability in acoustic classification models.  
-`Keywords`: *Uncertainty Quantification · Disagreement Analysis · Epistemic Confidence · Voice Classification*
-
-</td>
-<td align="center">
-[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/Sree14hari/CRDA)  
-[![Paper](https://img.shields.io/badge/Paper-Published-2ea44f?style=flat-square)](https://doi.org/10.1109/ICIET70550.2026.11712867)
-</td>
-<td align="center">
-
-[![Status](https://img.shields.io/badge/Manuscript-In_Press-blue?style=flat-square)](#)
-
-</td>
-</tr>
-</tbody>
-</table>
-
----
+| Publication / Manuscript | Status & Venue | Artifacts & Citation |
+|:---|:---:|:---:|
+| **Boosted Vision Transformer Ensembles for Automatic Detection of Laryngeal and Neurological Voice Disorders**  <br><br> ***R. Sreehari***, *R. Abhinav, V. S. Kalidas, N. Sukumaran, R. Rajan, M. S. Chinchu*  <br><br> Investigates enhanced vision transformer ensembles (DINOv3, EVA-02, MaxViT) with Boosted Weighted Voting and Temperature Scaling calibration on acoustic mel-spectrogram representations, reaching 86.84% accuracy across six vocal pathologies.  <br><br> `Keywords`: *Vision Transformers · Voice Pathology · Boosted Ensembles · Temperature Scaling · Acoustic Diagnostics* | 🌟 **Published Article**  <br><br> *Neural Computing and Applications*  <br> **(Springer)** · Vol. 38, 707 (2026) | [![DOI](https://img.shields.io/badge/DOI-10.1007%2Fs00521--026--12393--5-00758f?style=flat-square&logo=doi)](https://doi.org/10.1007/s00521-026-12393-5)  <br><br> [![Springer](https://img.shields.io/badge/Publisher-Springer_Nature-002f6c?style=flat-square)](https://link.springer.com/article/10.1007/s00521-026-12393-5)  <br><br> [![Cite](https://img.shields.io/badge/Download-Citation-2ea44f?style=flat-square)](https://citation-needed.springer.com/v2/references/10.1007/s00521-026-12393-5?format=refman&flavour=citation) |
+| **ADA-XAI: Adaptive Faithfulness-Driven Explainability for Hybrid EVA-02 and Deformable CNNs in Brain Tumor Diagnosis From MRI Images**  <br><br> ***S. R.***, *A. R., K. V. S., N. Sukumaran, R. Rajan, C. M. S.*  <br><br> Proposes an adaptive, faithfulness-driven explainability framework integrating hybrid EVA-02 representations with deformable convolutional networks for brain tumor diagnosis using MRI images.  <br><br> `Keywords`: *Explainable AI (XAI) · EVA-02 Transformer · Deformable CNNs · Faithfulness Evaluation · MRI Segmentation* | 🏆 **Best Paper Award**  <br><br> *ICITIIT '26*  <br> IIIT Kottayam | [![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/Sree14hari/ADA-XAI-MRI)  <br><br> [![Paper](https://img.shields.io/badge/Paper-Published-2ea44f?style=flat-square)](https://doi.org/10.1109/ICITIIT68860.2026.11499683) |
+| **CRDA: Cross-Reasoning Disagreement Analysis for Uncertainty Quantification in Hybrid Voice Classification**  <br><br> ***S. R.***, *A. R., K. V. S., N. Sukumaran, C. M. S., S. Babu*  <br><br> Introduces Cross-Reasoning Disagreement Analysis (CRDA) to quantify predictive uncertainty through disagreement between reasoning branches in hybrid voice classification models.  <br><br> `Keywords`: *Uncertainty Quantification · Cross-Reasoning Disagreement Analysis · Hybrid Transformer Models · CoAtNet · Pathological Voice Classification* | 🌟 **Published Article**  <br><br> *ICIET '26*  <br> Ernakulam, India | [![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/Sree14hari/CRDA)  <br><br> [![Paper](https://img.shields.io/badge/Paper-Published-2ea44f?style=flat-square)](https://doi.org/10.1109/ICIET70550.2026.11712867) |
 
 ## 🛠️ Research & Engineering Toolkit
 
