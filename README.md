@@ -110,7 +110,7 @@ IIIT Kottayam
 <td align="center">
 
 [![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/Sree14hari/ADA-XAI-MRI)  
-[![Paper](https://img.shields.io/badge/Paper-Published-2ea44f?style=flat-square)](https://github.com/Sree14hari/ADA-XAI-MRI)
+[![Paper](https://img.shields.io/badge/Paper-Published-2ea44f?style=flat-square)](https://doi.org/10.1109/ICITIIT68860.2026.11499683)
 
 </td>
 </tr>
@@ -125,10 +125,8 @@ Introduces disagreement analysis across dual reasoning branches to model epistem
 
 </td>
 <td align="center">
-
-✅ **Accepted**  
-*2026*
-
+[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/Sree14hari/CRDA)  
+[![Paper](https://img.shields.io/badge/Paper-Published-2ea44f?style=flat-square)](https://doi.org/10.1109/ICIET70550.2026.11712867)
 </td>
 <td align="center">
 
